@@ -2,7 +2,7 @@ import requests;
 import json;
 
 # Name: Potlacheruvu, Goutham Reddy
-# BlazerId: GP4
+# BlazerId: GP4123
 
 
 apiUrl = "https://michaelgathara.com/api/python-challenge"
